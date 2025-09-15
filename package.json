@@ -1,0 +1,13 @@
+{
+  "name": "com.google.external-dependency-manager",
+  "version": "1.2.177",
+  "displayName": "External Dependency Manager for Unity",
+  "description": "Manages external dependencies for Unity plugins (Google Play Services Resolver).",
+  "unity": "2019.4",
+  "author": {
+    "name": "Google LLC",
+    "url": "https://developers.google.com/unity"
+  },
+  "keywords": ["google", "dependencies", "android", "ios"],
+  "category": "Editor"
+}
